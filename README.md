@@ -46,5 +46,5 @@ Follow these steps to run ChronoFlow on your local machine.
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/chronoflow.git](https://github.com/YOUR_USERNAME/chronoflow.git)
+git clone https://github.com/HardikSoni1994/chronoflow.git
 cd chronoflow
