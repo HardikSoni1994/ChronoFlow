@@ -9,6 +9,8 @@
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+### 🔗 [Live Demo](https://chronoflow-hardik.vercel.app) | [GitHub](https://github.com/HardikSoni1994/ChronoFlow)
+
 </div>
 
 <br />
@@ -19,8 +21,10 @@
 
 ## 🚀 Live Preview
 
- ![ChronoFlow Preview](./src/assets/preview.png)
- ![ChronoFlow Preview](./src/assets/preview1.png)
+🌐 **Live URL:** [https://chronoflow-hardik.vercel.app](https://chronoflow-hardik.vercel.app)
+
+![ChronoFlow Preview](./src/assets/preview.png)
+![ChronoFlow Preview](./src/assets/preview1.png)
 
 ---
 
@@ -39,6 +43,7 @@
 Follow these steps to run ChronoFlow on your local machine.
 
 ### Prerequisites
+
 * Node.js (v18 or higher)
 * npm
 
@@ -46,5 +51,24 @@ Follow these steps to run ChronoFlow on your local machine.
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/HardikSoni1994/chronoflow.git
-cd chronoflow
+git clone https://github.com/HardikSoni1994/ChronoFlow.git
+cd ChronoFlow
+```
+
+**2. Install dependencies**
+```bash
+npm install
+```
+
+**3. Start the development server**
+```bash
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+**Hardik Soni**
+- GitHub: [@HardikSoni1994](https://github.com/HardikSoni1994)
+- LinkedIn: [Hardik Soni](https://linkedin.com/in/hardik-soni)
